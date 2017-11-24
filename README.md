@@ -1,6 +1,6 @@
 # terraform-provider-ovirt
 
-this is no mainted fork porject terraform-provider-ovirt. 
+this is no mainted porject terraform-provider-ovirt. 
 
 original github repos; https://github.com/chriscowley/terraform-provider-ovirt
 
